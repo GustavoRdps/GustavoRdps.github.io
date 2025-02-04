@@ -22,7 +22,7 @@
       <font face="MV Boli"> No Blue Lock Rivals, as habilidades são chamadas de Estilos (Ou Styles, em inglês). Esta é a lista de estilos até o momento:</font>
       <p></p>
 
-      <div class="row row-cols-1 row-cols-md-3 g-4" style="width: 98%">
+      <div class="row row-cols-1 row-cols-md-3 g-4">
         <div class="col">
             <div class="card border-secondary mb-3" style="height: 30rem">
               <div class="card-header"><font color="Blue"><h5>Raro</h5></font></div>
