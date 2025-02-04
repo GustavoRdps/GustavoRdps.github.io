@@ -24,7 +24,7 @@
 
       <div class="row row-cols-1 row-cols-md-3 g-4">
         <div class="col">
-            <div class="card border-secondary mb-3" style="height: 20rem">
+            <div class="card border-secondary mb-3" style="height: 25rem">
               <div class="card-header"><font color="Blue"><h5>Raro</h5></font></div>
               <div class="card-body">
                 <h5 class="card-title">Isagi</h5>
@@ -38,7 +38,7 @@
         </div>
 
         <div class="col">
-            <div class="card border-secondary mb-3" style="height: 20rem">
+            <div class="card border-secondary mb-3" style="height: 25rem">
                 <div class="card-header"><font color="Blue"><h5>Raro</h5></font></div>
                 <div class="card-body">
                   <h5 class="card-title">Chigiri</h5>
@@ -52,7 +52,7 @@
         </div>  
 
         <div class="col">
-            <div class="card border-primary mb-3" style="height: 20rem">
+            <div class="card border-primary mb-3" style="height: 25rem">
                 <div class="card-header"><font color="Purple"><h5>Épico</h5></font></div>
                 <div class="card-body">
                   <h5 class="card-title">Bachira</h5>
@@ -67,7 +67,7 @@
       </div>
         <div class="row row-cols-1 row-cols-md-3 g-4">
           <div class="col">
-            <div class="card border-primary mb-3" style="height: 20rem">
+            <div class="card border-primary mb-3" style="height: 25rem">
                 <div class="card-header"><font color="Purple"><h5>Épico</h5></font></div>
                 <div class="card-body">
                   <h5 class="card-title">Gagamaru</h5>
@@ -80,7 +80,7 @@
               </div>      
         </div>
         <div class="col">
-          <div class="card border-primary mb-3" style="height: 20rem">
+          <div class="card border-primary mb-3" style="height: 25rem">
               <div class="card-header"><font color="Purple"><h5>Épico</h5></font></div>
               <div class="card-body">
                 <h5 class="card-title">Otoya</h5>
@@ -94,7 +94,7 @@
       </div>
 
         <div class="col">
-            <div class="card border-primary mb-3" style="height: 20rem">
+            <div class="card border-primary mb-3" style="height: 25rem">
                 <div class="card-header"><font color="Purple"><h5>Épico</h5></font></div>
                 <div class="card-body">
                   <h5 class="card-title">Hiori</h5>
@@ -106,8 +106,9 @@
                 </div>
               </div>     
         </div>
+
         <div class="col">
-            <div class="card border-warning mb-3" style="height: 20rem">
+            <div class="card border-warning mb-3" style="height: 25rem">
                 <div class="card-header"><font color="Yellow"><h5>Lendário</h5></font></div>
                 <div class="card-body">
                   <h5 class="card-title">Nagi</h5>
@@ -119,8 +120,9 @@
                 </div>
               </div>        
         </div>  
+
        <div class="col">
-            <div class="card border-warning mb-3" style="height: 20rem">
+            <div class="card border-warning mb-3" style="height: 25rem">
                 <div class="card-header"><font color="Yellow"><h5>Lendário</h5></font></div>
                 <div class="card-body">
                   <h5 class="card-title">King</h5>
@@ -134,7 +136,7 @@
         </div>
 
         <div class="col">
-            <div class="card border-warning mb-3" style="height: 20rem">
+            <div class="card border-warning mb-3" style="height: 25rem">
                 <div class="card-header"><font color="Yellow"><h5>Lendário</h5></font></div>
                 <div class="card-body">
                   <h5 class="card-title">Reo</h5>
@@ -148,7 +150,7 @@
         </div>
 
         <div class="col">
-          <div class="card border-warning mb-3" style="height: 20rem">
+          <div class="card border-warning mb-3" style="height: 25rem">
               <div class="card-header"><font color="Yellow"><h5>Lendário</h5></font></div>
               <div class="card-body">
                 <h5 class="card-title">Karasu</h5>
@@ -162,7 +164,7 @@
       </div>
 
         <div class="col">
-            <div class="card border-danger mb-3" style="height: 20rem">
+            <div class="card border-danger mb-3" style="height: 25rem">
                 <div class="card-header"><font color="Red"><h5>Mítico</h5></font></div>
                 <div class="card-body">
                   <h5 class="card-title">Shidou</h5>
@@ -175,7 +177,7 @@
               </div>    
         </div>
         <div class="col">
-            <div class="card border-danger mb-3" style="height: 20rem">
+            <div class="card border-danger mb-3" style="height: 25rem">
                 <div class="card-header"><font color="Red"><h5>Mítico</h5></font></div>
                 <div class="card-body">
                   <h5 class="card-title">Sae</h5>
@@ -189,7 +191,7 @@
         </div>  
 
         <div class="col">
-            <div class="card border-danger mb-3" style="height: 20rem">
+            <div class="card border-danger mb-3" style="height: 25rem">
                 <div class="card-header"><font color="Red"><h5>Mítico</h5></font></div>
                 <div class="card-body">
                   <h5 class="card-title">Rin</h5>
@@ -203,7 +205,7 @@
         </div>
 
         <div class="col">
-            <div class="card border-danger mb-3" style="height: 20rem">
+            <div class="card border-danger mb-3" style="height: 25rem">
                 <div class="card-header"><font color="Red"><h5>Mítico</h5></font></div>
                 <div class="card-body">
                   <h5 class="card-title">Aiku</h5>
@@ -217,7 +219,7 @@
         </div>
 
       <div class="col">
-        <div class="card border-danger mb-3" style="height: 20rem">
+        <div class="card border-danger mb-3" style="height: 25rem">
             <div class="card-header"><font color="Red"><h5>Mítico</h5></font></div>
             <div class="card-body">
               <h5 class="card-title">Yukimiya</h5>
