@@ -1,8 +1,8 @@
 <ul class="nav nav-tabs">
     <li class="nav-item">
-      <a class="nav-link active" aria-current="page" href="/">Inicio</a>
+      <a class="nav-link" aria-current="page" href="/">Inicio</a>
     </li>
-    <li class="nav-item">
+    <li class="nav-item active">
       <a class="nav-link" href="\Despertares">Despertares</a>
     </li>
     <li class="nav-item">
