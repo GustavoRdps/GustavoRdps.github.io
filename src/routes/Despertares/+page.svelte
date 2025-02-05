@@ -3,7 +3,7 @@
       <a class="nav-link" href="/">Inicio</a>
     </li>
     <li class="nav-item active">
-      <a class="nav-link" aria-current="page" href="\Despertares">Despertares</a>
+      <a class="nav-link active" aria-current="page" href="\Despertares">Despertares</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="\Personagens">Personagens</a>
