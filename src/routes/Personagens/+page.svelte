@@ -1,12 +1,12 @@
 <ul class="nav nav-tabs">
     <li class="nav-item">
-      <a class="nav-link" aria-current="page" href="/">Inicio</a>
+      <a class="nav-link" href="/">Inicio</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="\Despertares">Despertares</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link active" href="\Personagens">Personagens</a>
+      <a class="nav-link active" aria-current="page" href="\Personagens">Personagens</a>
     </li>
  </ul>
   <figure class="text-center">
