@@ -9,6 +9,7 @@
           <a class="nav-link" href="\Personagens">Personagens</a>
         </li>
      </ul>
+     <div style="margin: 5%;">
       <figure class="text-center">
         <blockquote class="blockquote">
           <h1>Blue Lock Rivals</h1>
@@ -231,4 +232,5 @@
             </div>
           </div> 
     </div>
+</div>
 </div>

@@ -8,7 +8,7 @@
     <li class="nav-item">
       <a class="nav-link active" aria-current="page" href="\Personagens">Personagens</a>
     </li>
- </ul>
+ </ul>\
   <figure class="text-center">
     <blockquote class="blockquote">
       <h1>Blue Lock Rivals</h1>
