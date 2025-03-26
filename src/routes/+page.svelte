@@ -1,236 +1,354 @@
-    <ul class="nav nav-tabs">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/">Inicio</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="\Despertares">Despertares</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="\Personagens">Personagens</a>
-        </li>
-     </ul>
-     <div style="margin: 5%;">
-      <figure class="text-center">
-        <blockquote class="blockquote">
-          <h1>Blue Lock Rivals</h1>
-        </blockquote>
-        <figcaption class="blockquote-footer">
-        </figcaption>
-      </figure>
-      <center><font face="MV Boli"> Blue Lock Rivals é um jogo no roblox baseado no anime e mangá Blue Lock. Aqui você encontrará as habilidades disponiveis no jogo, como funciona, e qual o personagem que tem elas no anime.</font></center>
-      <hr color="Purple">
-      <h4><center>Habilidades / Estilos</center></h4>
-      <font face="MV Boli"> No Blue Lock Rivals, as habilidades são chamadas de Estilos (Ou Styles, em inglês). Esta é a lista de estilos até o momento:</font>
-      <p></p>
+<ul class="nav nav-tabs">
+  <li class="nav-item">
+    <a class="nav-link active" aria-current="page" href="/">Inicio</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="\Despertares">Despertares</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="\Personagens">Personagens</a>
+  </li>
+</ul>
 
-      <div class="row row-cols-1 row-cols-md-3 g-4">
-        <div class="col">
-            <div class="card border-secondary mb-3" style="height: 30rem">
-              <div class="card-header"><font color="Blue"><h5>Raro</h5></font></div>
-              <div class="card-body">
-                <h5 class="card-title">Isagi</h5>
-                <p class="card-text">Habilidades baseadas no personagem Isagi Yoichi. É muito útil para fazer gols, além de ser de fácil de adquirir.</p>
-                <ul class="list-group list-group-flush">
-                <li class="list-group-item">C - Direct Shot: Um chute direto na direção da mira</li>
-                <li class="list-group-item">V - Direct Pass: Um passe direto para o jogador aliado mais próximo</li>
-                </ul>
+<figure class="text-center">
+  <blockquote class="blockquote">
+    <h1>Blue Lock Rivals</h1>
+  </blockquote>
+  <figcaption class="blockquote-footer">
+  </figcaption>
+</figure>
+<center><font face="MV Boli"> Blue Lock Rivals é um jogo no roblox baseado no anime e mangá Blue Lock. Aqui você encontrará as habilidades disponiveis no jogo, como funciona, e qual o personagem que tem elas no anime.</font></center>
+<hr color="purple">
+<h4><center>Habilidades / Estilos</center></h4>
+<font face="MV Boli"> No Blue Lock Rivals, as habilidades são chamadas de Estilos (Ou Styles, em inglês). Até o momento existem 5 raridades, que são: raro, épico, lendário, mítico e world class. Esta é a lista de estilos até o momento:</font>
+<p></p>
+
+<div class="accordion" id="accordionExample">
+    <div class="accordion-item">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+          Raros
+        </button>
+      </h2>
+      <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+        <div class="accordion-body">
+
+          <div class="row">
+            <div class="col-4">
+              <div id="list-example" class="list-group">
+                <a class="list-group-item list-group-item-action" href="#Isagi">Isagi</a>
+                <a class="list-group-item list-group-item-action" href="#Chigiri">Chigiri</a>
               </div>
-            </div>        
-        </div>
-
-        <div class="col">
-            <div class="card border-secondary mb-3" style="height: 30rem">
-                <div class="card-header"><font color="Blue"><h5>Raro</h5></font></div>
-                <div class="card-body">
-                  <h5 class="card-title">Chigiri</h5>
-                  <p class="card-text">Habilidades baseadas no personagem Hyoma Chigiri. Possui uma alta velocidade, que pode ser utilizada tanto na defesa quanto no ataque.</p>
-                  <ul class="list-group list-group-flush">
-                    <li class="list-group-item">C - Speedster: Aumenta a velocidade de corrida do jogador</li>
-                    <li class="list-group-item">V - Tireless: Faz com que o jogador não gaste stamina quando corre</li>
-                  </ul>
-                </div>
-              </div>
-        </div>  
-
-        <div class="col">
-            <div class="card border-primary mb-3" style="height: 30rem">
-                <div class="card-header"><font color="Purple"><h5>Épico</h5></font></div>
-                <div class="card-body">
-                  <h5 class="card-title">Bachira</h5>
-                  <p class="card-text">Habilidades baseadas no personagem Bachira Meguru. Possui dribles e é útil para roubar a bola.</p>
-                  <ul class="list-group list-group-flush">
-                    <li class="list-group-item">C - Steal: Sem a bola é um dash para frente, e com a bola é uma lambreta.</li>
-                    <li class="list-group-item">V - Nutmeg: Dá um drible no inimigo mais próximo, atordoando ele.</li>
-                  </ul>
-                </div>
-              </div>
-        </div>
-      </div>
-        <div class="row row-cols-1 row-cols-md-3 g-4">
-          <div class="col">
-            <div class="card border-primary mb-3" style="height: 30rem">
-                <div class="card-header"><font color="Purple"><h5>Épico</h5></font></div>
-                <div class="card-body">
-                  <h5 class="card-title">Gagamaru</h5>
-                  <p class="card-text">Habilidades baseadas no personagem Gagamaru Gin. Muito útil no gol para aumentar os reflexos e utilizar as habilidades para chutar.</p>
-                  <ul class="list-group list-group-flush">
-                    <li class="list-group-item">C - Scorpion Kick: Chute escorpião direcionado pela mira.</li>
-                    <li class="list-group-item">V - Scorpion Header: Dá uma cabecada na bola no ar, mandando a bola em linha reta.</li>
-                  </ul>
-                </div>
-              </div>      
-        </div>
-        <div class="col">
-          <div class="card border-primary mb-3" style="height: 30rem">
-              <div class="card-header"><font color="Purple"><h5>Épico</h5></font></div>
-              <div class="card-body">
-                <h5 class="card-title">Otoya</h5>
-                <p class="card-text">Habilidades baseadas no personagem Otoya Eita. Personagem com habilidades furtivas, útil para se aproximar do gol sem ser notado.</p>
-                <ul class="list-group list-group-flush">
-                  <li class="list-group-item">C - Stealthy Steps: Torna o jogador invisivel por alguns instantes, e fica mais rápido.</li>
-                  <li class="list-group-item">V - Ninja Dribble: Dá um drible em um adversário, se tornando invisivel por alguns instantes.</li>
-                </ul>
-              </div>
-            </div>      
-      </div>
-
-        <div class="col">
-            <div class="card border-primary mb-3" style="height: 30rem">
-                <div class="card-header"><font color="Purple"><h5>Épico</h5></font></div>
-                <div class="card-body">
-                  <h5 class="card-title">Hiori</h5>
-                  <p class="card-text">Habilidades baseadas no personagem Hiori Yo. Possui drible e passes precisos, ótimo para assistência.</p>
-                  <ul class="list-group list-group-flush">
-                    <li class="list-group-item">C - Laser: Chute potente que alcança longas distâncias.</li>
-                    <li class="list-group-item">V - Ice Dribble: Um drible que atordoa o oponente na frente, se tornando uma habilidade de passe extremamente precisa.</li>
-                  </ul>
-                </div>
-              </div>     
-        </div>
-
-        <div class="col">
-            <div class="card border-warning mb-3" style="height: 30rem">
-                <div class="card-header"><font color="Yellow"><h5>Lendário</h5></font></div>
-                <div class="card-body">
-                  <h5 class="card-title">Nagi</h5>
-                  <p class="card-text">Habilidades baseadas no personagem Nagi Seishiro. Possui um domínio de bola ótimo, e é bem útil para defesa e ataque.</p>
-                  <ul class="list-group list-group-flush">
-                    <li class="list-group-item">C - Trap: Fica no ar com ou sem a bola, permitindo fazer uma ação no ar, e logo em seguida se torna uma habilidade de chute.</li>
-                    <li class="list-group-item">V - Dash: Um dash na direção em que o jogador se disloca.</li>
-                  </ul>
-                </div>
-              </div>        
-        </div>  
-
-       <div class="col">
-            <div class="card border-warning mb-3" style="height: 30rem">
-                <div class="card-header"><font color="Yellow"><h5>Lendário</h5></font></div>
-                <div class="card-body">
-                  <h5 class="card-title">King</h5>
-                  <p class="card-text">Habilidades baseadas no personagem Baro Shoei. Possui dribles e um chute poderoso, ótimo para fazer gols</p>
-                  <ul class="list-group list-group-flush">
-                    <li class="list-group-item">C - King’s Impact: Chute extremamente forte direcionado pela mira.</li>
-                    <li class="list-group-item">V - King’s Dribble: Um drible que percorre longas distâncias em zigue zague.</li>
-                  </ul>
-                </div>
-              </div>
-        </div>
-
-        <div class="col">
-            <div class="card border-warning mb-3" style="height: 30rem">
-                <div class="card-header"><font color="Yellow"><h5>Lendário</h5></font></div>
-                <div class="card-body">
-                  <h5 class="card-title">Reo</h5>
-                  <p class="card-text">Habilidades baseadas no personagem Reo Mikage. Tem a habilidade de copiar outros jogadores, se tornando boa para ataque e defesa.</p>
-                  <ul class="list-group list-group-flush">
-                    <li class="list-group-item">C - Copy: Copia uma das habilidades aleatoriamente do oponente que estiver na mira.</li>
-                    <li class="list-group-item">V - Offensive Mode/Defensive Mode: O modo ofensivo aumenta a força de chute e passe, e o modo defensivo aumenta o tamanho do dash.</li>
-                  </ul>
-                </div>
-              </div>   
-        </div>
-
-        <div class="col">
-          <div class="card border-warning mb-3" style="height: 30rem">
-              <div class="card-header"><font color="Yellow"><h5>Lendário</h5></font></div>
-              <div class="card-body">
-                <h5 class="card-title">Karasu</h5>
-                <p class="card-text">Habilidades baseadas no personagem Karasu Tabito. Tem a habilidade de copiar outros jogadores, se tornando boa para ataque e defesa.</p>
-                <ul class="list-group list-group-flush">
-                  <li class="list-group-item">C - Raven Dribble: Faz um drible em zigue zague, passando pelos adversário.</li>
-                  <li class="list-group-item">V - Crow Theft: Aumenta bastante a velocidade do jogador por alguns segundos, e rouba a bola em seguida.</li>
-                </ul>
-              </div>
-            </div>   
-      </div>
-
-        <div class="col">
-            <div class="card border-danger mb-3" style="height: 30rem">
-                <div class="card-header"><font color="Red"><h5>Mítico</h5></font></div>
-                <div class="card-body">
-                  <h5 class="card-title">Shidou</h5>
-                  <p class="card-text">Habilidades baseadas no personagem Shidou Ryusei. Por ter 2 habilidades de lançar a bola no gol, é muito boa para finalizar.</p>
-                  <ul class="list-group list-group-flush">
-                    <li class="list-group-item">C - Dragon Drive: Pula com a bola, e disfere um ataque na direção em que o jogador estiver mirando.</li>
-                    <li class="list-group-item">V - Dragon Header: Pula com a bola e dá uma cabeçada, mandando a bola na direção em que estiver mirando.</li>
-                  </ul>
-                </div>
-              </div>    
-        </div>
-        <div class="col">
-            <div class="card border-danger mb-3" style="height: 30rem">
-                <div class="card-header"><font color="Red"><h5>Mítico</h5></font></div>
-                <div class="card-body">
-                  <h5 class="card-title">Sae</h5>
-                  <p class="card-text">Habilidades baseadas no personagem Sae Itoshi. É muito boa para se aproximar do gol e fazer uma assistência perfeita para o aliado fazer o gol.</p>
-                  <ul class="list-group list-group-flush">
-                    <li class="list-group-item">C - Perfect Pass: Faz um passe perfeito para o jogador aliado que estiver na mira.</li>
-                    <li class="list-group-item">V - Magic turn: Um drible que desvia de adversários e desloca o jogador para a direção em que está se movendo.</li>
-                  </ul>
-                </div>
-              </div>    
-        </div>  
-
-        <div class="col">
-            <div class="card border-danger mb-3" style="height: 30rem">
-                <div class="card-header"><font color="Red"><h5>Mítico</h5></font></div>
-                <div class="card-body">
-                  <h5 class="card-title">Rin</h5>
-                  <p class="card-text">Habilidades baseadas no personagem Rin Itoshi. Utilizando a habilidade de chute curvo, dificulta muito para o goleiro defender.</p>
-                  <ul class="list-group list-group-flush">
-                    <li class="list-group-item">C - Curve Shot: Um dash para o sado, seguido de um chute com curva na direção em que a mira está.</li>
-                    <li class="list-group-item">V - Opposite Direction: Um drible que faz com que o jogador circule o oponente.</li>
-                  </ul>
-                </div>
-              </div>
-        </div>
-
-        <div class="col">
-            <div class="card border-danger mb-3" style="height: 30rem">
-                <div class="card-header"><font color="Red"><h5>Mítico</h5></font></div>
-                <div class="card-body">
-                  <h5 class="card-title">Aiku</h5>
-                  <p class="card-text">Habilidades baseadas no personagem Aiku Oliver. O estilo perfeito para defender, dificultando o ataque adversário, e criando contra-ataques.</p>
-                  <ul class="list-group list-group-flush">
-                    <li class="list-group-item">C - Forced Defence: Um movimento que rouba a bola só de um oponente com a bola na frente do jogador.</li>
-                    <li class="list-group-item">V - Charge: Um dash na direção do jogador inimigo para roubar a bola.</li>
-                  </ul>
-                </div>
-              </div> 
-        </div>
-
-      <div class="col">
-        <div class="card border-danger mb-3" style="height: 30rem">
-            <div class="card-header"><font color="Red"><h5>Mítico</h5></font></div>
-            <div class="card-body">
-              <h5 class="card-title">Yukimiya</h5>
-              <p class="card-text">Habilidades baseadas no personagem Yukimiya Kenyu. O melhor estilo para o jogador se aproximar do gol adversário, sendi muito útil para um atacante.</p>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">C - Freestyle: Dá um dash que circula o inimigo, além de atordoa-lo.</li>
-                <li class="list-group-item">V - Lethal Touch: Dá um dash para a direita, e caso tenha um jogador adversário próximo, se desloca para a esquerda.</li>
-              </ul>
             </div>
-          </div> 
+            <div class="col-8">
+              <!-- svelte-ignore a11y_no_noninteractive_tabindex -->
+              <div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
+                <h4 id="Isagi">Isagi</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"A strategic playmaker, reads the game well and excels at positioning and teamwork"</p>
+                  </div>
+                </div>
+                <p>É a habilidade que todos os jogadores ganham no inicio do jogo. Habilidades baseadas no personagem Isagi Yoichi, que é o protagonista do mangá e anime Blue Lock. É muito útil para fazer gols no começo do jogo, além de ser de fácil de adquirir.</p>
+                <h4 id="Chigiri">Chigiri</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"A speed-focused character, mastering swift dashes, enhanced sprinting and boundless stamina"</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Hyoma Chigiri. Personagem que possui uma alta velocidade, que pode ser utilizada tanto na defesa quanto no ataque.</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
     </div>
-</div>
-</div>
+    <div class="accordion-item">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Épico
+        </button>
+      </h2>
+      <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+        <div class="accordion-body">
+          
+          <div class="row">
+            <div class="col-4">
+              <div id="list-example" class="list-group">
+                <a class="list-group-item list-group-item-action" href="#Bachira">Bachira</a>
+                <a class="list-group-item list-group-item-action" href="#Gagamaru">Gagamaru</a>
+                <a class="list-group-item list-group-item-action" href="#Hiori">Hiori</a>
+                <a class="list-group-item list-group-item-action" href="#Otoya">Otoya</a>
+                <a class="list-group-item list-group-item-action" href="#Kurona">Kurona</a>
+              </div>
+            </div>
+
+            <div class="col-8">
+              
+              <!-- svelte-ignore a11y_no_noninteractive_tabindex -->
+              <div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
+                <h4 id="Bachira">Bachira</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"An Energetic Dribbler, great at unpredictable plays and ankle breakers"</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Bachira Meguru. Tem habilidades incríveis para realisar dribles e passar por qualquer defesa, da mesma forma que o personagem.</p>
+
+                <h4 id="Gagamaru">Gagamaru</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"BEASTLY Goalkeeper with sharp instincts and unmatched reflexes"</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Gagamaru Gin. Muito útil no gol para aumentar os reflexos e utilizar as habilidades para chutar.</p>
+
+
+              <div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
+                <h4 id="Hiori">Hiori</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"A strategic playmaker, reads the game well and excels at positioning and teamwork"</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Hiori Yo. Possui drible e passes precisos, ótimo para assistência.</p>
+
+                <h4 id="Otoya">Otoya</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"An actual ninja on the field"</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Otoya Eita. Personagem com habilidades furtivas, útil para se aproximar do gol sem ser notado.</p>
+              </div>
+
+              <h4 id="Kurona">Kurona</h4>
+              <div class="card border-primary mb-3" style="max-width: 18rem;">
+                <div class="card-body text-primary">
+                  <h5 class="card-title">Descrição</h5>
+                  <p class="card-text">"All he's missing is a fin!"</p>
+                </div>
+              </div>
+              <p>Habilidades baseadas no personagem Kurona Ranze. Melhor épico do jogo disparado. Bom para defesa e ataque, além de ter o passe mais preciso.</p>
+            </div>
+          </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Lendário
+        </button>
+      </h2>
+      <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+        <div class="accordion-body">
+          
+          <div class="row">
+            <div class="col-4">
+              <div id="list-example" class="list-group">
+                <a class="list-group-item list-group-item-action" href="#Nagi">Nagi</a>
+                <a class="list-group-item list-group-item-action" href="#Reo">Reo</a>
+                <a class="list-group-item list-group-item-action" href="#King">King</a>
+                <a class="list-group-item list-group-item-action" href="#Karasu">Karasu</a>
+              </div>
+            </div>
+
+            <div class="col-8">
+              
+              <!-- svelte-ignore a11y_no_noninteractive_tabindex -->
+              <div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
+                <h4 id="Nagi">Nagi</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"Natural Talent, highly skilled at trapping and controlling difficult passes."</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Nagi Seishiro. Possui um domínio de bola ótimo, e é bem útil para defesa e ataque.</p>
+
+                <h4 id="Reo">Reo</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"Jack of All Trades, Master of ...All?"</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Reo Mikage. Tem a habilidade de copiar outros jogadores, se tornando boa para ataque e defesa.</p>
+
+
+              <div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
+                <h4 id="King">King</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"A Ruthless Striker, dominant presence with powerful shots and individual play."</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Baro Shoei. Possui dribles e um chute poderoso, ótimo para fazer gols.</p>
+
+                <h4 id="Karasu">Karasu</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"Fearless defender and striker able to appear anywhere at anytime."</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Karasu Tabito. Tem a habilidade de copiar outros jogadores, se tornando boa para ataque e defesa.</p>
+              </div>
+
+            </div>
+          </div>
+          </div>
+
+      </div>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseOne">
+          Míticos
+        </button>
+      </h2>
+      <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+        <div class="accordion-body">
+
+          <div class="row">
+            <div class="col-4">
+              <div id="list-example" class="list-group">
+                <a class="list-group-item list-group-item-action" href="#Kunigami">Kunigami</a>
+                <a class="list-group-item list-group-item-action" href="#Shidou">Shidou</a>
+                <a class="list-group-item list-group-item-action" href="#Rin">Rin</a>
+                <a class="list-group-item list-group-item-action" href="#Aiku">Aiku</a>
+                <a class="list-group-item list-group-item-action" href="#Yukimiya">Yukimiya</a>
+              </div>
+            </div>
+
+            <div class="col-8">
+              
+              <!-- svelte-ignore a11y_no_noninteractive_tabindex -->
+              <div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
+                <h4 id="Kunigami">Kunigami</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"Natural Talent, highly skilled at trapping and controlling difficult passes."</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Nagi Seishiro. Possui um domínio de bola ótimo, e é bem útil para defesa e ataque.</p>
+
+                <h4 id="Shidou">Shidou</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"Jack of All Trades, Master of ...All?"</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Shidou Ryusei. Por ter 2 habilidades de lançar a bola no gol, é muito boa para finalizar.</p>
+
+
+              <div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
+                <h4 id="Rin">Rin</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"A Ruthless Striker, dominant presence with powerful shots and individual play."</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Rin Itoshi. Utilizando a habilidade de chute curvo, dificulta muito para o goleiro defender.</p>
+
+                <h4 id="Aiku">Aiku</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"Fearless defender and striker able to appear anywhere at anytime."</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Aiku Oliver. O estilo perfeito para defender, dificultando o ataque adversário, e criando contra-ataques.</p>
+
+                <h4 id="Yukimiya">Yukimiya</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"Fearless defender and striker able to appear anywhere at anytime."</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Yukimiya Kenyu. O melhor estilo para o jogador se aproximar do gol adversário, sendi muito útil para um atacante.</p>
+              </div>
+
+            </div>
+          </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+    
+    <div class="accordion-item">
+      <h2 class="accordion-header">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseTwo">
+          World Class
+        </button>
+      </h2>
+      <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+        <div class="accordion-body">
+          <div class="row">
+            <div class="col-4">
+              <div id="list-example" class="list-group">
+                <a class="list-group-item list-group-item-action" href="#Don-Lorenzo">Don Lorenzo</a>
+                <a class="list-group-item list-group-item-action" href="#Sae">Sae</a>
+                <a class="list-group-item list-group-item-action" href="#NEL-Isagi">King</a>
+              </div>
+            </div>
+
+            <div class="col-8">
+              
+              <!-- svelte-ignore a11y_no_noninteractive_tabindex -->
+              <div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
+                <h4 id="Don-Lorenzo">Don Lorenzo</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"Natural Talent, highly skilled at trapping and controlling difficult passes."</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Nagi Seishiro. Possui um domínio de bola ótimo, e é bem útil para defesa e ataque.</p>
+
+                <h4 id="Sae">Sae</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"Jack of All Trades, Master of ...All?"</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Reo Mikage. Tem a habilidade de copiar outros jogadores, se tornando boa para ataque e defesa.</p>
+
+
+              <div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
+                <h4 id="NEL-Isagi">NEL Isagi</h4>
+                <div class="card border-primary mb-3" style="max-width: 18rem;">
+                  <div class="card-body text-primary">
+                    <h5 class="card-title">Descrição</h5>
+                    <p class="card-text">"A Ruthless Striker, dominant presence with powerful shots and individual play."</p>
+                  </div>
+                </div>
+                <p>Habilidades baseadas no personagem Baro Shoei. Possui dribles e um chute poderoso, ótimo para fazer gols.</p>
+              </div>
+
+            </div>
+          </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
