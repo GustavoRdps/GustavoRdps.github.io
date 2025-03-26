@@ -318,19 +318,19 @@
                 <div class="card border-primary mb-3" style="max-width: 18rem;">
                   <div class="card-body text-primary">
                     <h5 class="card-title">Descrição</h5>
-                    <p class="card-text">"Natural Talent, highly skilled at trapping and controlling difficult passes."</p>
+                    <p class="card-text">"The ace that eats aces"</p>
                   </div>
                 </div>
-                <p>Habilidades baseadas no personagem Nagi Seishiro. Possui um domínio de bola ótimo, e é bem útil para defesa e ataque.</p>
+                <p>Habilidades baseadas no personagem Don Lorenzo. Tem dribles de alto nível, além de habilidades incríveis para a defesa.</p>
 
                 <h4 id="Sae">Sae</h4>
                 <div class="card border-primary mb-3" style="max-width: 18rem;">
                   <div class="card-body text-primary">
                     <h5 class="card-title">Descrição</h5>
-                    <p class="card-text">"Jack of All Trades, Master of ...All?"</p>
+                    <p class="card-text">"Genius playmaker with unrivaled skills, precise passes, and unstoppable shots"</p>
                   </div>
                 </div>
-                <p>Habilidades baseadas no personagem Reo Mikage. Tem a habilidade de copiar outros jogadores, se tornando boa para ataque e defesa.</p>
+                <p>Habilidades baseadas no personagem Sae Itoshi. Anteriormente era um estilo épico, mas se tornou World Class após a criação dessa raridade. É muito boa para driblar e fazer gols e assistências.</p>
 
 
               <div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
@@ -338,10 +338,10 @@
                 <div class="card border-primary mb-3" style="max-width: 18rem;">
                   <div class="card-body text-primary">
                     <h5 class="card-title">Descrição</h5>
-                    <p class="card-text">"A Ruthless Striker, dominant presence with powerful shots and individual play."</p>
+                    <p class="card-text">"Truly, an out of this world player."</p>
                   </div>
                 </div>
-                <p>Habilidades baseadas no personagem Baro Shoei. Possui dribles e um chute poderoso, ótimo para fazer gols.</p>
+                <p>Habilidades baseadas no personagem Isagi Yoichi da Liga Neo Egoista. Possui dribles e chutes mais poderosos que o estilo Isagi, Se tornando ótimo para fazer gols e jogadas elaboradas.</p>
               </div>
 
             </div>
