@@ -306,7 +306,7 @@
               <div id="list-example" class="list-group">
                 <a class="list-group-item list-group-item-action" href="#Don-Lorenzo">Don Lorenzo</a>
                 <a class="list-group-item list-group-item-action" href="#Sae">Sae</a>
-                <a class="list-group-item list-group-item-action" href="#NEL-Isagi">King</a>
+                <a class="list-group-item list-group-item-action" href="#NEL-Isagi">NEL-Isagi</a>
               </div>
             </div>
 
